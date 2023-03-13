@@ -34,7 +34,7 @@ body * {
     max-width: 880px;
     display: grid;
     grid-template-rows: max-content 1fr max-content;
-    margin: 0 auto;
+    margin: 10px auto 5px auto;
 }
 
 #top{
