@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    border: 0;
     box-sizing: border-box;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -26,7 +27,7 @@ body * {
 
 #app {
     /* padding: 24px 32px; */
-    padding: 2.4rem 3.2rem;
+    padding: 3.2rem;
 
     height: 100vh;
     width: 100vw;
